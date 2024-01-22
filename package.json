@@ -1,0 +1,17 @@
+{
+  "name": "newproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/googlemaps": "^3.43.3",
+    "parcel": "^2.11.0",
+    "typescript": "^5.3.3"
+  }
+}
